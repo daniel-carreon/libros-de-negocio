@@ -1,23 +1,34 @@
-# libros
+# libros-de-negocio
 
-Biblioteca de lectura de Arbrain: los libros completos que viajan dentro de la app del alumno,
-las portadas y el manifiesto que la app lee.
+La biblioteca de negocio de Arbrain, en dos capas: **los libros que se entregan** dentro de la app
+del alumno, y **el censo** de lo que hay, lo que falta y en qué orden se compra.
 
 > **Por qué este repo aparte.** Convivían tres cosas distintas en un solo lugar: la biblioteca
 > personal de Daniel (`casa/personal/`, con sus 60+ PDFs), los libros que se **distribuyen** con
 > Arbrain y el código de Arbrain. Mezclarlos rompía dos cosas: el repo de código cargaba con
 > binarios de decenas de MB en cada clon, y la biblioteca personal —que no viaja a nadie— quedaba
-> a un `git add` de distancia de publicarse. Aquí viven solo los libros que se entregan, con su
-> ficha y su procedencia; `casa/personal/` sigue siendo la biblioteca privada, sin cambios.
+> a un `git add` de distancia de publicarse. Aquí viven solo los libros que se entregan y el censo
+> de la biblioteca; `casa/personal/` sigue siendo la biblioteca privada, sin cambios.
+
+## Las dos capas
+
+| Capa | Qué es | Archivos |
+|---|---|---|
+| **Entregados** | Los libros completos que viajan dentro de la app, sus portadas y el manifiesto que la app lee | `libros/<slug>/`, `portadas/<slug>.webp`, `indice.json`, `INDICE.md` |
+| **Censo** | Lo que existe, lo que falta, con enlaces y ediciones en español; el orden de compra; y la línea histórica de la venta | `CENSO.md`, `COMPRA.md`, `HISTORIA.md` |
+
+Regla de oro entre las dos: **lo que está en el censo no tiene que estar en la app**. El censo es
+el mapa de la biblioteca entera; `libros/` es lo que se entrega hoy.
 
 ## Qué hay
 
-| Ruta | Qué es |
+| Archivo | Qué es |
 |---|---|
-| `libros/<slug>/` | Un libro por carpeta. El `slug` es el mismo que usa la app, la portada y el manifiesto. |
-| `portadas/<slug>.webp` | Portada 640×357 (16:10), la que pinta la biblioteca. |
-| `indice.json` | **Manifiesto.** La app lo lee de `/libros/indice.json`. Es la única fuente de verdad del catálogo. |
-| `INDICE.md` | El mismo catálogo para leer a ojo: procedencia, formato y calidad de cada archivo. |
+| `CENSO.md` | El censo por etapa del embudo (alcance, nutrición, conversión, onboarding, entrega, expansión y transversales): 69 fichas con estado, edición en español y procedencia. |
+| `COMPRA.md` | La lista de compra en el orden de Daniel: *Ya · Expansión · Este mes · Después*. Donde difiere del censo, manda el suyo. |
+| `HISTORIA.md` | Cómo se vende, de 1494 a 2021: qué agregó cada autor y qué pieza de hoy heredó. |
+| `INDICE.md` | El catálogo de los entregados, para leer a ojo: procedencia, formato y calidad de cada archivo. |
+| `indice.json` | **Manifiesto.** La app lo lee de `/libros/indice.json`. Es la única fuente de verdad del catálogo entregado. |
 | `LICENCIAS.md` | Qué es de quién y qué se puede hacer con esto. |
 
 ## Cómo lo consume Arbrain
@@ -37,7 +48,8 @@ pierden: `arbrain/public/libros/` se regenera.
 1. Elige el slug (`autor-titulo` en minúsculas, sin acentos).
 2. Crea `libros/<slug>/` y mete el archivo, con el mismo nombre que la carpeta.
 3. Genera la portada webp 640×357 y guárdala como `portadas/<slug>.webp`.
-4. Agrega su entrada en `indice.json` **y** en `INDICE.md` (mismo orden).
+4. Agrega su entrada en `indice.json` **y** en `INDICE.md` (mismo orden); pásalo a ✅ en `CENSO.md`
+   y bájalo de `COMPRA.md`.
 5. Copia a `arbrain/public/libros/`, portada a `arbrain/public/library-covers/`, y corre
    `npx tsc --noEmit` + `npm test` en `arbrain/` antes de publicar versión.
 
