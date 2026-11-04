@@ -1,7 +1,7 @@
 {
   "version": 1,
   "actualizado": "2026-11-04",
-  "nota": "Manifiesto de la biblioteca que viaja con Arbrain. Fuente de verdad: repo daniel-carreon/libros → copia en arbrain/public/libros/. Rutas de archivo relativas a /libros/.",
+  "nota": "Manifiesto de la biblioteca que viaja con Arbrain. Fuente de verdad: el repo privado de libros del autor → copia en arbrain/public/libros/. Rutas de archivo relativas a /libros/.",
   "libros": [
     {
       "slug": "hormozi-100m-ofertas",
