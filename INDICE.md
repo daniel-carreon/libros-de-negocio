@@ -5,7 +5,7 @@ Catálogo para leer a ojo. La versión de máquina es `indice.json`; si cambias 
 | # | Libro | Autor | Idioma | Formato de lectura | Peso | Origen |
 |---|---|---|---|---|---|---|
 | 1 | **$100M Ofertas** — cómo hacer ofertas tan buenas que la gente se sienta tonta diciendo que no | Alex Hormozi | ES | PDF | 4.8 MB | `casa/personal/libros/02-marketing-ofertas/hormozi-100m-ofertas-ES.pdf` |
-| 2 | **$100M Leads** — cómo lograr que extraños quieran comprarte | Alex Hormozi | EN | PDF | 21 MB | `casa/personal/libros/02-marketing-ofertas/hormozi-100m-leads.pdf` (+ `.epub`) |
+| 2 | **$100M Leads** — cómo lograr que extraños quieran comprarte | Alex Hormozi | EN | HTML (21 MB el PDF de origen) | 533 KB | Markdown del repo `jabjab42/hormozi-books` → pandoc; el PDF original vive en `casa/personal/libros/02-marketing-ofertas/` |
 | 3 | **$100M Money Models** — ofertas de atracción, upsell, downsell y continuidad | Alex Hormozi | EN | HTML | 336 KB | Markdown convertido del PDF (`hormozi-markdown/fuentes/`) → pandoc |
 | 4 | **La Vía Rápida del Millonario** | MJ DeMarco | ES | HTML | 820 KB | Edición en español del 19 oct (zip `demarco-millionaire-fastlane-ES-libro-y-audio`) → pandoc |
 
@@ -16,8 +16,11 @@ Google» en la primera página). Se lee bien; los cortes de línea del traductor
 cuando. Es el único español que existe: el original en inglés está en la biblioteca personal como
 markdown (`$100 m offers...md`), no se distribuye.
 
-**2 · $100M Leads (EN).** PDF del libro tal cual, con sus diagramas. Es el más pesado del catálogo.
-El EPUB está en esta carpeta solo como respaldo del original; la app no lo usa.
+**2 · $100M Leads (EN).** Markdown del mismo repo público de terceros que Money Models
+(`jabjab42/hormozi-books`, commit `46b7158`, bajado el 26 sep 2026) convertido a HTML con pandoc.
+Trae las descripciones de imagen que hizo esa IA, con el mismo aviso de cotejo. **El HTML es lo que
+se entrega**: el PDF de 21 MB tardaba demasiado en subir a GitHub (HTTP 408 en `git push`) y en el
+teléfono se lee peor. El PDF y el EPUB originales siguen en la biblioteca personal como fuente.
 
 **3 · $100M Money Models (EN).** No existe PDF en la biblioteca, solo el markdown que salió del
 repo público `jabjab42/hormozi-books` (commit `46b7158`, bajado el 26 sep 2026). Ojo: esa

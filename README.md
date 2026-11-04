@@ -57,6 +57,10 @@ pandoc <fuente>.md|.epub -f markdown-tex_math_dollars -t html5 -s --toc --toc-de
 
 `lector.css` es el estilo de lectura (papel claro/oscuro, serif, 40rem) y se embebe en el HTML.
 
+**Qué se entrega, formato por libro:** Ofertas va en PDF (es el único español y pesa 4.8 MB);
+Leads, Money Models y La Vía Rápida van en HTML. De Leads el repo guarda además el PDF de 21 MB
+como original, pero **no viaja**: a GitHub le costaba subirlo y en el teléfono se lee peor.
+
 ## Tamaño
 
 ~47 MB en total. `hormozi-100m-leads.pdf` (21 MB) y `hormozi-100m-ofertas-ES.pdf` (4.8 MB)
