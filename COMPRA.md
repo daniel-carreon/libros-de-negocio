@@ -9,20 +9,20 @@
 
 | Libro | Autor | Por qué ahora | Hoy | Edición en español | Censo |
 |---|---|---|---|---|---|
-| *One to Many* | Jason Fladlien | El cierre de la masterclass: el webinar que vende. Tu hueco | 🟡 extracto de 28 págs (caps. 4 y 5) | ❌ no hay; Kindle en inglés | YA |
-| *Launch* | Jeff Walker | El canon de los lanzamientos: la Product Launch Formula de 2005, el linaje de lo que más te ha vendido | ❌ | ❔ verificada en portugués, no en español | DESPUÉS |
+| *One to Many* | Jason Fladlien | El cierre de la masterclass: el webinar que vende. Tu hueco | ✅ EPUB completo (5 nov) | ❌ no hay; Kindle en inglés | YA |
+| *Launch* | Jeff Walker | El canon de los lanzamientos: la Product Launch Formula de 2005, el linaje de lo que más te ha vendido | ✅ (5 nov) | ❔ verificada en portugués, no en español | DESPUÉS |
 | *The E-Myth Revisited* | Michael Gerber | Trabajar **sobre** el negocio y no dentro, con cada proceso escrito: lo que le pediste a Seba, en libro | ✅ `03-negocio-startups/` | ✅ *El mito del emprendedor* | MES |
 
 ## Expansión
 
 | Libro | Autor | Por qué | Hoy | Edición en español | Censo |
 |---|---|---|---|---|---|
-| *$100M Money Models* | Alex Hormozi | Atraer, subir, bajar y continuar. Ya lo tienes, falta la copia legal | 🟡 markdown de terceros | ❔ Audible lista una versión en español | YA |
+| *$100M Money Models* | Alex Hormozi | Atraer, subir, bajar y continuar. Ya lo tienes, falta la copia legal | ✅ PDF + markdown (5 nov) | ❔ Audible lista una versión en español | YA |
 | *$100M Playbook: Lifetime Value* | Alex Hormozi | La palanca de LTV: ticket, frecuencia y duración | 🟡 copia de terceros | — (gratis en Acquisition.com) | YA |
 | *Never Lose a Customer Again* | Joey Coleman | Los primeros 100 días del cliente, en 8 fases: la «E» de RACE | ❌ | ❌ no hay; inglés | MES (antes de Entrega, 14 dic) |
 | *Subscribed* | Tien Tzuo | El negocio de la mensualidad, contado por el fundador de Zuora | ❌ | ✅ *Suscritos* (2019) | DESPUÉS |
 | *The Ultimate Question 2.0* | Fred Reichheld | El NPS: los referidos medidos | ❌ | ❔ circula como *La pregunta decisiva* | DESPUÉS |
-| *Million Dollar Consulting* | Alan Weiss | La biblia del consultor independiente: entregar por valor, no por horas. Es el vehículo del alumno | ❌ | ❔ inglés | YA |
+| *Million Dollar Consulting* | Alan Weiss | La biblia del consultor independiente: entregar por valor, no por horas. Es el vehículo del alumno | ✅ PDF 401 págs (5 nov) | ❔ inglés | YA |
 | *Value-Based Fees* | Alan Weiss | Cómo cobra un consultor por valor: el precio de tu mensualidad | ❌ | ❔ inglés | YA |
 | *7 Powers* | Hamilton Helmer | Tu pregunta del foso, con método: las siete fuentes de ventaja duradera | ✅ `09-estrategia-clasicos/` | ❌ no hay; inglés | DESPUÉS |
 
@@ -30,8 +30,8 @@
 
 | Libro | Autor | Por qué | Hoy | Edición en español | Censo |
 |---|---|---|---|---|---|
-| *DotCom Secrets* | Russell Brunson | La escalera de valor y el embudo como sistema. Ya tienes *Expert Secrets* | ❌ | ✅ *Secretos punto com* | MES |
-| *Traffic Secrets* | Russell Brunson | Cierra la trilogía: Dream 100, tráfico propio contra rentado | ❌ | ❌ no hay; inglés | MES |
+| *DotCom Secrets* | Russell Brunson | La escalera de valor y el embudo como sistema. Ya tienes *Expert Secrets* | ✅ (5 nov) | ✅ *Secretos punto com* | MES |
+| *Traffic Secrets* | Russell Brunson | Cierra la trilogía: Dream 100, tráfico propio contra rentado | ✅ (5 nov) | ❌ no hay; inglés | MES |
 | *Breakthrough Advertising* | Eugene Schwartz | Niveles de conciencia y sofisticación: la teoría del copy | ✅ `02-marketing-ofertas/` | Ya en la línea histórica (`HISTORIA.md`) | DESPUÉS |
 | *Traction* (EOS) | Gino Wickman | El sistema operativo del negocio: scorecard, rocas de 90 días, junta semanal. Tu categoría | ❌ | ✅ *Tracción* (BenBella, 2018) | MES |
 | *SPIN Selling* | Neil Rackham | La venta consultiva medida con 35,000 llamadas | ✅ `02-marketing-ofertas/` | Ya en la línea histórica (`HISTORIA.md`) | MES |
@@ -41,7 +41,7 @@
 La línea completa, con qué agregó cada uno y qué pieza de hoy heredó, está en [`HISTORIA.md`](HISTORIA.md).
 El **5 nov 2026** entraron los 29 del 80/20 que faltaban (Carnegie, Drucker ×2, Reeves, Ries y Trout, Porter, Schwartz, Halbert, Rackham, Abraham, Bettger, Sloan, Ohno, Deming, Gerber, Collins, Christensen, Rumelt, Helmer, Lean Startup, Kroc, Walton, Chernow, Knight, Graham, Buffett, Coase, Schumpeter y Hayek): la columna «Hoy» ya los refleja. Siguen faltando las **copias legales de Hormozi** (Ofertas, Prospectos y Money Models).
 
-**Corrección 5 nov, 07:45:** de esos 29, cuatro eran otro libro (ver `CENSO.md`). Siguen faltando Carnegie *How to Win Friends*, Drucker *The Effective Executive*, Sloan *My Years with General Motors* y Deming *Out of the Crisis*.
+**Corrección 5 nov, 07:45:** de esos 29, cuatro eran otro libro (ver `CENSO.md`). **Resueltos el 5 nov por la tarde:** Carnegie *How to Win Friends* (ed. 1981), Drucker *The Effective Executive* (HarperBusiness), Sloan *My Years with General Motors* (epub) y Deming *Out of the Crisis* (traducción completa, *Calidad, productividad y competitividad*, 409 págs). Los cuatro archivos equivocados siguen en el estante hasta que Daniel diga que se van.
 La tabla de procedencia de `CENSO.md` dice cuáles de los que ya tienes no tienen comprobante de compra.
 
 ## Gratis y legal, sin comprar

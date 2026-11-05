@@ -33,7 +33,7 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-30 libros · 161.2 MB
+33 libros · 216.6 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -43,6 +43,8 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `brunson-dotcom-secrets.pdf` | PDF | 3.8 MB |
 | `brunson-secretos-de-experto.pdf` | PDF | 4.6 MB |
 | `brunson-traffic-secrets.pdf` | PDF | 4.8 MB |
+| `caples-tested-advertising-methods.pdf` | PDF | 52.2 MB |
+| `carnegie-how-to-win-friends-1981.pdf` | PDF | 536 KB |
 | `carnegie-how-to-win-friends.pdf` | PDF | 588 KB |
 | `cialdini-influencia.pdf` | PDF | 2.8 MB |
 | `cialdini-presuasion.pdf` | PDF | 8.0 MB |
@@ -82,55 +84,71 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `ries-trout-positioning.pdf` | PDF | 3.3 MB |
 | `schwartz-breakthrough-advertising.pdf` | PDF | 1.2 MB |
 | `suby-sell-like-crazy.pdf` | PDF | 4.3 MB |
+| `sugarman-the-adweek-copywriting-handbook.pdf` | PDF | 2.6 MB |
 | `walker-launch.pdf` | PDF | 4.9 MB |
 
 ## 03-negocio-startups
 
 _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
-13 libros · 53.4 MB
+19 libros · 73.4 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
 | `baker-the-business-of-expertise.epub` | EPUB | 1.4 MB |
+| `blank-the-four-steps-to-the-epiphany.pdf` | PDF | 4.7 MB |
+| `chen-the-cold-start-problem.epub` | EPUB | 2.3 MB |
 | `collins-good-to-great.pdf` | PDF | 8.7 MB |
 | `enns-pricing-creativity.epub` | EPUB | 4.4 MB |
 | `enns-win-without-pitching.pdf` | PDF | 391 KB |
 | `ferriss-semana-laboral-4-horas.pdf` | PDF | 2.5 MB |
+| `fitzpatrick-the-mom-test.epub` | EPUB | 106 KB |
 | `gerber-the-e-myth-revisited.pdf` | PDF | 1.1 MB |
 | `hoffman-blitzscaling.pdf` | PDF | 390 KB |
 | `kaufman-mba-personal-8020.md` | MD | 53 KB |
 | `kaufman-mba-personal.pdf` | PDF | 1.7 MB |
 | `martell-buy-back-your-time.pdf` | PDF | 9.5 MB |
 | `masterson-listos-fuego-apunten.pdf` | PDF | 2.9 MB |
+| `moore-crossing-the-chasm.pdf` | PDF | 3.3 MB |
+| `osterwalder-business-model-generation.epub` | EPUB | 7.8 MB |
 | `ries-the-lean-startup.pdf` | PDF | 2.0 MB |
 | `thiel-de-cero-a-uno-ES.pdf` | PDF | 2.1 MB |
 | `thiel-zero-to-one-EN.pdf` | PDF | 16.3 MB |
+| `weiss-million-dollar-consulting.pdf` | PDF | 1.8 MB |
 
 ## 04-operaciones-liderazgo
 
 _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
-17 libros · 70.8 MB
+26 libros · 128.5 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `catmull-creativity-inc.pdf` | PDF | 2.9 MB |
+| `deming-calidad-productividad-competitividad-ES.pdf` | PDF | 5.7 MB |
 | `deming-out-of-the-crisis.pdf` | PDF | 2.0 MB |
+| `drucker-the-effective-executive-1967.pdf` | PDF | 4.2 MB |
 | `drucker-the-effective-executive.pdf` | PDF | 3.8 MB |
 | `drucker-the-practice-of-management.pdf` | PDF | 31.1 MB |
 | `goldratt-la-meta.pdf` | PDF | 1.4 MB |
 | `grove-high-output-management.pdf` | PDF | 2.0 MB |
+| `grove-only-the-paranoid-survive.epub` | EPUB | 547 KB |
+| `hastings-no-rules-rules.pdf` | PDF | 11.8 MB |
 | `hbr-on-leadership-2011.pdf` | PDF | 3.8 MB |
+| `horowitz-the-hard-thing-about-hard-things.epub` | EPUB | 320 KB |
 | `lencioni-the-motive-excerpt.pdf` | PDF | 82 KB |
 | `maxwell-5-levels-of-leadership.pdf` | PDF | 1.6 MB |
 | `micklewright-out-of-another-crisis-2010.pdf` | PDF | 2.0 MB |
 | `ohno-toyota-production-system.epub` | EPUB | 1.5 MB |
+| `peters-in-search-of-excellence.pdf` | PDF | 27.9 MB |
 | `sinek-find-your-why.pdf` | PDF | 3.3 MB |
 | `sinek-leaders-eat-last.pdf` | PDF | 2.6 MB |
 | `sinek-start-with-why-8020.md` | MD | 5 KB |
 | `sinek-start-with-why.pdf` | PDF | 1.4 MB |
 | `sinek-the-infinite-game.pdf` | PDF | 1.9 MB |
+| `sloan-my-years-with-general-motors.epub` | EPUB | 3.9 MB |
 | `sloan-my-years-with-general-motors.pdf` | PDF | 1.4 MB |
+| `voss-never-split-the-difference.epub` | EPUB | 456 KB |
 | `womack-lean-thinking.pdf` | PDF | 6.5 MB |
 | `wooden-on-leadership.pdf` | PDF | 4.4 MB |
 
@@ -138,7 +156,7 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
 _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 MB._
 
-8 libros · 42.1 MB
+9 libros · 45.4 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -147,6 +165,7 @@ _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 
 | `dalio-principios-ES.pdf` | PDF | 3.8 MB |
 | `demarco-millionaire-fastlane.epub` | EPUB | 3.2 MB |
 | `graham-the-intelligent-investor.pdf` | PDF | 5.5 MB |
+| `hill-think-and-grow-rich-2010-edicion.pdf` | PDF | 3.3 MB |
 | `housel-psicologia-del-dinero.pdf` | PDF | 1.5 MB |
 | `naval-the-almanack.pdf` | PDF | 1.9 MB |
 | `robbins-money-master-the-game.pdf` | PDF | 14.3 MB |
@@ -199,13 +218,14 @@ _Kahneman, Greene, Holiday, Allen, Pritchett, García Calvo, Zeland, Goggins._
 
 _Sun Tzu, dos ediciones._
 
-6 libros · 18.7 MB
+7 libros · 21.4 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
 | `christensen-the-innovators-dilemma.pdf` | PDF | 1.6 MB |
 | `greene-48-leyes-del-poder.pdf` | PDF | 2.2 MB |
 | `helmer-7-powers.epub` | EPUB | 10.4 MB |
+| `parker-platform-revolution.pdf` | PDF | 2.7 MB |
 | `porter-competitive-strategy.pdf` | PDF | 2.1 MB |
 | `rumelt-good-strategy-bad-strategy.pdf` | PDF | 1.8 MB |
 | `suntzu-del-arte-de-la-guerra-v2.pdf` | PDF | 639 KB |
@@ -224,34 +244,40 @@ _Heinlein._
 
 _Elon Musk, en inglés y en español._
 
-7 libros · 76.7 MB
+9 libros · 108.1 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
 | `chernow-titan.pdf` | PDF | 14.1 MB |
 | `elon-musk-biografia-EN.pdf` | PDF | 13.8 MB |
 | `isaacson-elon-musk-ES.epub` | EPUB | 35.3 MB |
+| `isaacson-steve-jobs.pdf` | PDF | 4.4 MB |
 | `knight-shoe-dog.pdf` | PDF | 1.2 MB |
 | `kroc-grinding-it-out.pdf` | PDF | 5.6 MB |
 | `mcdonald-a-ghosts-memoir-making-of-sloan-2002.pdf` | PDF | 1.4 MB |
+| `stone-the-everything-store.pdf` | PDF | 26.9 MB |
 | `walton-made-in-america.pdf` | PDF | 5.4 MB |
 
 ## 12-epistemologia-frontera
 
 _Deutsch, Kurzweil._
 
-2 libros · 21.6 MB
+6 libros · 28.8 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `agrawal-power-and-prediction.epub` | EPUB | 1.5 MB |
+| `agrawal-prediction-machines.pdf` | PDF | 1.9 MB |
+| `brynjolfsson-the-second-machine-age.epub` | EPUB | 810 KB |
 | `deutsch-beginning-of-infinity.pdf` | PDF | 3.0 MB |
 | `kurzweil-como-se-construye-una-mente-ES.epub` | EPUB | 18.6 MB |
+| `mollick-co-intelligence.epub` | EPUB | 3.1 MB |
 
 ## 13-historia-del-negocio
 
 _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage, Barnum, Conwell, Le Bon, Veblen, Pacioli, Sheldon, Scott, Taylor, Esenwein y Carnagey, A. Carnegie, Ford x2, Lippmann, Hopkins x2, Lefèvre, Bernays x2. Legal de publicar._
 
-22 libros · 80.0 MB
+23 libros · 101.9 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -275,6 +301,7 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 | `ford-today-and-tomorrow-1926.txt` | TXT | 510 KB |
 | `franklin-autobiography-1791.epub` | EPUB | 4.7 MB |
 | `franklin-autobiography-1791.txt` | TXT | 456 KB |
+| `hill-think-and-grow-rich-1937.pdf` | PDF | 21.9 MB |
 | `hopkins-my-life-in-advertising-1927.pdf` | PDF | 3.2 MB |
 | `hopkins-my-life-in-advertising-1927.txt` | TXT | 295 KB |
 | `hopkins-scientific-advertising-1923.pdf` | PDF | 620 KB |
@@ -302,6 +329,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 
 ## Resumen
 
-- **139 libros** en 13 estantes.
-- **668.2 MB** en total (sin el zip de libro+audio de 477 MB).
+- **166 libros** en 13 estantes.
+- **867.8 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.

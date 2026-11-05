@@ -58,6 +58,38 @@ Timonel; quedan de referencia) · técnicos DL/ML (se apalanca del QUÉ) · filo
 `~/Downloads/_duplicados-biblioteca/` — 22 copias repetidas (versiones "(1)", formatos redundantes,
 Davies duplicado). Revisar y vaciar a la papelera cuando Daniel quiera.
 
+## 5 nov 2026 · tercera caza — la capa de economía de la IA y los huecos del censo
+
+Entraron **27** (139 → 166 libros). El hueco que la biblioteca no cubría: cómo funcionan los negocios
+cuando la inteligencia sale barata, y el tercer piso de la escalera (plataformas). Cada archivo se
+validó por firma, conteo de páginas y **título en portada o página legal**: lo que dejó pasar a los
+cuatro impostores de la mañana fue buscar el apellido del autor, que también aparece en el libro ajeno.
+
+| Estante | Lo que entró |
+|---|---|
+| `12-epistemologia-frontera/` | Agrawal, Gans y Goldfarb — **Prediction Machines** (2018) y **Power and Prediction** (2022) · Brynjolfsson y McAfee — **The Second Machine Age** (2014) · Mollick — **Co-Intelligence** (2024) |
+| `09-estrategia-clasicos/` | Parker, Van Alstyne y Choudary — **Platform Revolution** (2016) |
+| `03-negocio-startups/` | Chen — **The Cold Start Problem** · Moore — **Crossing the Chasm** · Blank — **The Four Steps to the Epiphany** (2.ª ed.) · Osterwalder — **Business Model Generation** · Fitzpatrick — **The Mom Test** · Weiss — **Million Dollar Consulting** |
+| `04-operaciones-liderazgo/` | Grove — **Only the Paranoid Survive** · Horowitz — **The Hard Thing About Hard Things** · Catmull — **Creativity, Inc.** · Hastings y Meyer — **No Rules Rules** · Peters y Waterman — **In Search of Excellence** · Voss — **Never Split the Difference** |
+| `11-biografias/` | Isaacson — **Steve Jobs** · Stone — **The Everything Store** |
+| `02-marketing-ofertas/` | Caples — **Tested Advertising Methods** (4.ª ed., escaneo) · Sugarman — **The Adweek Copywriting Handbook** |
+| `05-riqueza-inversion/` | Hill — **Think and Grow Rich**, edición «Success Manual» 2010 (compilación; el original de 1937 va abajo) |
+| `13-historia-del-negocio/` | Hill — **Think and Grow Rich** 1937 original (escaneo, dominio público en EE. UU.) |
+
+**Los cuatro que se resistían, ya repuestos:** Carnegie *How to Win Friends* (ed. revisada 1981, con las
+partes 5 y 6), Drucker *The Effective Executive* (HarperBusiness), Sloan *My Years with General Motors*
+(epub) y Deming — la traducción completa de *Out of the Crisis*: *Calidad, productividad y
+competitividad: la salida de la crisis* (409 págs, Díaz de Santos).
+
+**Regla nueva para el script de caza:** exigir el TÍTULO en las primeras 15 páginas y vetar marcadores
+del otro libro («Harvard Business Review» para el Drucker, «A Ghost's Memoir» para el Sloan,
+«Toolkit» para el Weiss, «Micklewright» para el Deming). El apellido no basta. El veto de un tercero
+sí se pasa de listo: la reimpresión de Sloan de 1990 trae la introducción de John McDonald y no por eso
+es otro libro.
+
+**Sigue faltando:** nada de la lista de Daniel de esta tanda. De la anterior, *COMPRA.md* sigue sin
+ejecutar (todo es copia de lectura, sin comprobante de compra salvo el estante 13).
+
 ## 🎧 Audiolibros (desde 16 oct 2026)
 
 Pipeline: libro en español → narrador local Qwen3-TTS con voz **Sensei** (`sensei-clon`) → `casa/personal/audiolibros/libros/<slug>/`
