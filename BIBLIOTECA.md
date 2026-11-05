@@ -33,7 +33,7 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-18 libros · 93.2 MB
+17 libros · 92.7 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -41,7 +41,6 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `belfort-way-of-the-wolf.pdf` | PDF | 2.2 MB |
 | `bettger-how-i-raised-myself.epub` | EPUB | 2.0 MB |
 | `brunson-secretos-de-experto.pdf` | PDF | 4.6 MB |
-| `carnegie-how-to-win-friends.pdf` | PDF | 588 KB |
 | `cialdini-influencia.pdf` | PDF | 2.8 MB |
 | `cialdini-presuasion.pdf` | PDF | 8.0 MB |
 | `cialdini-yes-50-ways.pdf` | PDF | 10.6 MB |
@@ -96,24 +95,23 @@ _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
 _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
-15 libros · 65.0 MB
+14 libros · 63.6 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
-| `deming-out-of-the-crisis.pdf` | PDF | 2.0 MB |
-| `drucker-the-effective-executive.pdf` | PDF | 3.8 MB |
 | `drucker-the-practice-of-management.pdf` | PDF | 31.1 MB |
 | `goldratt-la-meta.pdf` | PDF | 1.4 MB |
 | `grove-high-output-management.pdf` | PDF | 2.0 MB |
+| `hbr-on-leadership-2011.pdf` | PDF | 3.8 MB |
 | `lencioni-the-motive-excerpt.pdf` | PDF | 82 KB |
 | `maxwell-5-levels-of-leadership.pdf` | PDF | 1.6 MB |
+| `micklewright-out-of-another-crisis-2010.pdf` | PDF | 2.0 MB |
 | `ohno-toyota-production-system.epub` | EPUB | 1.5 MB |
 | `sinek-find-your-why.pdf` | PDF | 3.3 MB |
 | `sinek-leaders-eat-last.pdf` | PDF | 2.6 MB |
 | `sinek-start-with-why-8020.md` | MD | 5 KB |
 | `sinek-start-with-why.pdf` | PDF | 1.4 MB |
 | `sinek-the-infinite-game.pdf` | PDF | 1.9 MB |
-| `sloan-my-years-with-general-motors.pdf` | PDF | 1.4 MB |
 | `womack-lean-thinking.pdf` | PDF | 6.5 MB |
 | `wooden-on-leadership.pdf` | PDF | 4.4 MB |
 
@@ -162,11 +160,12 @@ _Attia, Walker, Lembke, Huberman (guía de 12 págs)._
 
 _Kahneman, Greene, Holiday, Allen, Pritchett, García Calvo, Zeland, Goggins._
 
-9 libros · 16.9 MB
+10 libros · 17.5 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
 | `allen-como-un-hombre-piensa.pdf` | PDF | 821 KB |
+| `carnegie-how-to-stop-worrying-and-start-living-1948.pdf` | PDF | 588 KB |
 | `garcia-calvo-la-voz-de-tu-alma.pdf` | PDF | 1.2 MB |
 | `goggins-no-me-puedes-lastimar.pdf` | PDF | 6.5 MB |
 | `greene-maestria.pdf` | PDF | 1.5 MB |
@@ -205,7 +204,7 @@ _Heinlein._
 
 _Elon Musk, en inglés y en español._
 
-6 libros · 75.3 MB
+7 libros · 76.7 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -214,6 +213,7 @@ _Elon Musk, en inglés y en español._
 | `isaacson-elon-musk-ES.epub` | EPUB | 35.3 MB |
 | `knight-shoe-dog.pdf` | PDF | 1.2 MB |
 | `kroc-grinding-it-out.pdf` | PDF | 5.6 MB |
+| `mcdonald-a-ghosts-memoir-making-of-sloan-2002.pdf` | PDF | 1.4 MB |
 | `walton-made-in-america.pdf` | PDF | 5.4 MB |
 
 ## 12-epistemologia-frontera

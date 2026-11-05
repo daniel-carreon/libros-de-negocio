@@ -40,6 +40,8 @@
 
 La línea completa, con qué agregó cada uno y qué pieza de hoy heredó, está en [`HISTORIA.md`](HISTORIA.md).
 El **5 nov 2026** entraron los 29 del 80/20 que faltaban (Carnegie, Drucker ×2, Reeves, Ries y Trout, Porter, Schwartz, Halbert, Rackham, Abraham, Bettger, Sloan, Ohno, Deming, Gerber, Collins, Christensen, Rumelt, Helmer, Lean Startup, Kroc, Walton, Chernow, Knight, Graham, Buffett, Coase, Schumpeter y Hayek): la columna «Hoy» ya los refleja. Siguen faltando las **copias legales de Hormozi** (Ofertas, Prospectos y Money Models).
+
+**Corrección 5 nov, 07:45:** de esos 29, cuatro eran otro libro (ver `CENSO.md`). Siguen faltando Carnegie *How to Win Friends*, Drucker *The Effective Executive*, Sloan *My Years with General Motors* y Deming *Out of the Crisis*.
 La tabla de procedencia de `CENSO.md` dice cuáles de los que ya tienes no tienen comprobante de compra.
 
 ## Gratis y legal, sin comprar

@@ -12,6 +12,15 @@
 > Halbert, Rackham, Abraham, Kroc, Walton, Chernow, *Shoe Dog*, Graham, Buffett, Coase, Schumpeter y
 > Hayek. **La columna «Lo tiene» de las tablas de abajo es una foto del 4 nov** y no se repintó fila
 > por fila; para saber qué hay hoy, manda `BIBLIOTECA.md`, que se regenera desde los archivos.
+>
+> **Corrección 5 nov, 07:45 (revisión por identidad, no solo por firma y páginas):** 4 de los 29 eran
+> otro libro y se renombraron a lo que son: el «Carnegie» es *How to Stop Worrying and Start Living* (1948);
+> el «Deming» es *Out of Another @#&*% Crisis!* de Mike Micklewright (2010, parodia); el «Sloan» es
+> *A Ghost's Memoir* de John McDonald (2002, cómo se escribió el libro de Sloan), y el «Drucker *Effective
+> Executive*» es la antología *HBR On Leadership* (2011), que solo trae su artículo «What Makes an Effective
+> Executive». **Siguen faltando:** Carnegie *How to Win Friends*, Drucker *The Effective Executive*, Sloan
+> *My Years with General Motors* y Deming *Out of the Crisis*. Coase y Drucker *The Practice of Management*
+> son los correctos pero escaneados sin capa de texto (OCR al momento de usarlos).
 
 ## Cómo leer esto
 
