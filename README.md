@@ -18,7 +18,7 @@ La biblioteca de negocio de Arbrain. Dos capas de libros y una de decisiones:
 | `CENSO.md` | El censo por etapa del embudo: 69 fichas con estado, edición en español y procedencia. |
 | `COMPRA.md` | La lista de compra en el orden de Daniel: *Ya · Expansión · Este mes · Después*. |
 | `HISTORIA.md` | Cómo se vende, de 1494 a 2021: qué agregó cada autor y qué pieza de hoy heredó. |
-| `LICENCIAS.md` | Qué es de quién y por qué el repo es privado. |
+| `LICENCIAS.md` | Qué es de quién y qué implica que el repo sea público. |
 | `scripts/biblioteca-indice.py` | Regenera `BIBLIOTECA.md` desde `biblioteca/`. |
 
 ## Cómo se regenera el índice
