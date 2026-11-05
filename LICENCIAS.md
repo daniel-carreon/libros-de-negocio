@@ -9,7 +9,7 @@ recomendaciones: adentro están los archivos. Los libros son de sus autores y ed
 
 | Capa | Qué se publica | Estado legal |
 |---|---|---|
-| `biblioteca/13-historia-del-negocio/` | 7 obras de 1906 a 1927 (Pacioli, Sheldon, Scott, Taylor, Ford, Hopkins) | **Dominio público.** Se pueden publicar. |
+| `biblioteca/13-historia-del-negocio/` | 22 obras de 1532 a 1928 (las 7 de historia de la venta del 4 nov, más 15 clásicos agregados esa noche desde Project Gutenberg y archive.org; Hill *Law of Success* no entró porque las copias son la edición de 2004, con derechos) | **Dominio público en EE. UU.** (publicado hasta 1930). Se pueden publicar. |
 | Resto de `biblioteca/` | 68 archivos de libros modernos | Copias de lectura. Muchas **sin comprobante de compra** (ver `CENSO.md` §Procedencia). |
 | `entregados/` | Los 4 libros que sirve la app del alumno | Misma situación; se entregaron a la cohorte fundadora el 4 nov 2026 a sabiendas de que el repo de alumnos es público. |
 

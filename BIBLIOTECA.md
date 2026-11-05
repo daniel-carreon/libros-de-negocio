@@ -200,29 +200,59 @@ _Deutsch, Kurzweil._
 
 ## 13-historia-del-negocio
 
-_Dominio público (1906 a 1927): Pacioli, Sheldon, Scott, Taylor, Ford, Hopkins. Legal de publicar._
+_Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage, Barnum, Conwell, Le Bon, Veblen, Pacioli, Sheldon, Scott, Taylor, Esenwein y Carnagey, A. Carnegie, Ford x2, Lippmann, Hopkins x2, Lefèvre, Bernays x2. Legal de publicar._
 
-7 libros · 35.2 MB
+22 libros · 80.0 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `babbage-on-the-economy-of-machinery-and-manufactures-1832.epub` | EPUB | 316 KB |
+| `babbage-on-the-economy-of-machinery-and-manufactures-1832.txt` | TXT | 630 KB |
+| `barnum-the-art-of-money-getting-1880.epub` | EPUB | 112 KB |
+| `barnum-the-art-of-money-getting-1880.txt` | TXT | 94 KB |
+| `bernays-crystallizing-public-opinion-1923.epub` | EPUB | 235 KB |
+| `bernays-crystallizing-public-opinion-1923.txt` | TXT | 276 KB |
+| `bernays-propaganda-1928.pdf` | PDF | 11.5 MB |
+| `bernays-propaganda-1928.txt` | TXT | 214 KB |
+| `carnegie-andrew-autobiography-1920.epub` | EPUB | 1.2 MB |
+| `carnegie-andrew-autobiography-1920.txt` | TXT | 687 KB |
+| `conwell-acres-of-diamonds-1890.epub` | EPUB | 188 KB |
+| `conwell-acres-of-diamonds-1890.txt` | TXT | 259 KB |
+| `esenwein-carnagey-the-art-of-public-speaking-1915.epub` | EPUB | 492 KB |
+| `esenwein-carnagey-the-art-of-public-speaking-1915.txt` | TXT | 957 KB |
 | `ford-my-life-and-work-1922.epub` | EPUB | 279 KB |
 | `ford-my-life-and-work-1922.txt` | TXT | 538 KB |
+| `ford-today-and-tomorrow-1926.pdf` | PDF | 14.9 MB |
+| `ford-today-and-tomorrow-1926.txt` | TXT | 510 KB |
+| `franklin-autobiography-1791.epub` | EPUB | 4.7 MB |
+| `franklin-autobiography-1791.txt` | TXT | 456 KB |
 | `hopkins-my-life-in-advertising-1927.pdf` | PDF | 3.2 MB |
 | `hopkins-my-life-in-advertising-1927.txt` | TXT | 295 KB |
 | `hopkins-scientific-advertising-1923.pdf` | PDF | 620 KB |
 | `hopkins-scientific-advertising-1923.txt` | TXT | 129 KB |
+| `le-bon-the-crowd-1895.epub` | EPUB | 206 KB |
+| `le-bon-the-crowd-1895.txt` | TXT | 351 KB |
+| `lefevre-reminiscences-of-a-stock-operator-1923.epub` | EPUB | 371 KB |
+| `lefevre-reminiscences-of-a-stock-operator-1923.txt` | TXT | 606 KB |
+| `lippmann-public-opinion-1922.epub` | EPUB | 305 KB |
+| `lippmann-public-opinion-1922.txt` | TXT | 630 KB |
+| `machiavelli-the-prince-1532.epub` | EPUB | 360 KB |
+| `machiavelli-the-prince-1532.txt` | TXT | 301 KB |
 | `pacioli-geijsbeek-ancient-double-entry-bookkeeping-1914.pdf` | PDF | 14.9 MB |
 | `pacioli-geijsbeek-ancient-double-entry-bookkeeping-1914.txt` | TXT | 764 KB |
 | `scott-the-psychology-of-advertising-1908.pdf` | PDF | 3.9 MB |
 | `scott-the-psychology-of-advertising-1908.txt` | TXT | 419 KB |
 | `sheldon-the-science-of-successful-salesmanship-1906.pdf` | PDF | 9.1 MB |
 | `sheldon-the-science-of-successful-salesmanship-1906.txt` | TXT | 622 KB |
+| `smith-the-wealth-of-nations-1776.epub` | EPUB | 926 KB |
+| `smith-the-wealth-of-nations-1776.txt` | TXT | 2.4 MB |
 | `taylor-the-principles-of-scientific-management-1911.epub` | EPUB | 158 KB |
 | `taylor-the-principles-of-scientific-management-1911.txt` | TXT | 226 KB |
+| `veblen-the-theory-of-the-leisure-class-1899.epub` | EPUB | 290 KB |
+| `veblen-the-theory-of-the-leisure-class-1899.txt` | TXT | 657 KB |
 
 ## Resumen
 
-- **75 libros** en 13 estantes.
-- **422.4 MB** en total (sin el zip de libro+audio de 477 MB).
+- **90 libros** en 13 estantes.
+- **467.2 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.

@@ -31,7 +31,7 @@ DESCRIPCIONES = {
     "10-ficcion-sistemas": "Heinlein.",
     "11-biografias": "Elon Musk, en inglés y en español.",
     "12-epistemologia-frontera": "Deutsch, Kurzweil.",
-    "13-historia-del-negocio": "Dominio público (1906 a 1927): Pacioli, Sheldon, Scott, Taylor, Ford, Hopkins. Legal de publicar.",
+    "13-historia-del-negocio": "Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage, Barnum, Conwell, Le Bon, Veblen, Pacioli, Sheldon, Scott, Taylor, Esenwein y Carnagey, A. Carnegie, Ford x2, Lippmann, Hopkins x2, Lefèvre, Bernays x2. Legal de publicar.",
 }
 
 LIBRO = re.compile(r"\.(pdf|epub|mobi|azw3|djvu)$", re.I)
