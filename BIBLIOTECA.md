@@ -33,21 +33,27 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-17 libros · 92.7 MB
+30 libros · 161.2 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
 | `abraham-getting-everything-you-can.pdf` | PDF | 541 KB |
 | `belfort-way-of-the-wolf.pdf` | PDF | 2.2 MB |
 | `bettger-how-i-raised-myself.epub` | EPUB | 2.0 MB |
+| `brunson-dotcom-secrets.pdf` | PDF | 3.8 MB |
 | `brunson-secretos-de-experto.pdf` | PDF | 4.6 MB |
+| `brunson-traffic-secrets.pdf` | PDF | 4.8 MB |
+| `carnegie-how-to-win-friends.pdf` | PDF | 588 KB |
 | `cialdini-influencia.pdf` | PDF | 2.8 MB |
 | `cialdini-presuasion.pdf` | PDF | 8.0 MB |
 | `cialdini-yes-50-ways.pdf` | PDF | 10.6 MB |
-| `fladlien-one-to-many.pdf` | PDF | 1.1 MB |
+| `dunford-obviously-awesome.epub` | EPUB | 1.2 MB |
+| `fladlien-one-to-many.epub` | EPUB | 8.6 MB |
 | `halbert-the-boron-letters.pdf` | PDF | 575 KB |
+| `holmes-the-ultimate-sales-machine.pdf` | PDF | 10.8 MB |
 | `hormozi-100m-leads.epub` | EPUB | 16.4 MB |
 | `hormozi-100m-leads.pdf` | PDF | 20.0 MB |
+| `hormozi-100m-money-models.pdf` | PDF | 6.6 MB |
 | `hormozi-100m-ofertas-ES.pdf` | PDF | 4.8 MB |
 | `hormozi-markdown/INDICE.md` | MD | 3 KB |
 | `hormozi-markdown/fuentes/$100 m offers_ how to make offers so good people feel stupid -- Alex Hormozy -- PT, 2021 -- Acquisition_com Publishing -- 9781737475705 -- da9eb4951114175a5e429e89b9488c20 -- Anna’s Archive.md` | MD | 284 KB |
@@ -65,21 +71,31 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `hormozi-markdown/fuentes/$100M Playbook_ Pricing -- Alex Hormozi -- $100M, 2025.md` | MD | 87 KB |
 | `hormozi-markdown/fuentes/$100M Playbook_ Proof Checklist -- Alex Hormozi -- $100M, 2025.md` | MD | 39 KB |
 | `hormozi-markdown/fuentes/$100M Playbook_ Retention -- Alex Hormozi -- $100M, 2025.md` | MD | 49 KB |
+| `keenan-gap-selling.epub` | EPUB | 776 KB |
+| `kennedy-magnetic-marketing.pdf` | PDF | 2.2 MB |
+| `kennedy-no-bs-direct-marketing.pdf` | PDF | 10.5 MB |
+| `kennedy-the-ultimate-sales-letter.pdf` | PDF | 6.8 MB |
+| `marshall-8020-sales-and-marketing.pdf` | PDF | 3.8 MB |
 | `ogilvy-confesiones-de-un-publicitario.pdf` | PDF | 6.8 MB |
 | `rackham-spin-selling.pdf` | PDF | 2.0 MB |
 | `reeves-reality-in-advertising.pdf` | PDF | 4.3 MB |
 | `ries-trout-positioning.pdf` | PDF | 3.3 MB |
 | `schwartz-breakthrough-advertising.pdf` | PDF | 1.2 MB |
+| `suby-sell-like-crazy.pdf` | PDF | 4.3 MB |
+| `walker-launch.pdf` | PDF | 4.9 MB |
 
 ## 03-negocio-startups
 
 _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
-10 libros · 47.2 MB
+13 libros · 53.4 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `baker-the-business-of-expertise.epub` | EPUB | 1.4 MB |
 | `collins-good-to-great.pdf` | PDF | 8.7 MB |
+| `enns-pricing-creativity.epub` | EPUB | 4.4 MB |
+| `enns-win-without-pitching.pdf` | PDF | 391 KB |
 | `ferriss-semana-laboral-4-horas.pdf` | PDF | 2.5 MB |
 | `gerber-the-e-myth-revisited.pdf` | PDF | 1.1 MB |
 | `hoffman-blitzscaling.pdf` | PDF | 390 KB |
@@ -95,10 +111,12 @@ _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
 _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
-14 libros · 63.6 MB
+17 libros · 70.8 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `deming-out-of-the-crisis.pdf` | PDF | 2.0 MB |
+| `drucker-the-effective-executive.pdf` | PDF | 3.8 MB |
 | `drucker-the-practice-of-management.pdf` | PDF | 31.1 MB |
 | `goldratt-la-meta.pdf` | PDF | 1.4 MB |
 | `grove-high-output-management.pdf` | PDF | 2.0 MB |
@@ -112,6 +130,7 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 | `sinek-start-with-why-8020.md` | MD | 5 KB |
 | `sinek-start-with-why.pdf` | PDF | 1.4 MB |
 | `sinek-the-infinite-game.pdf` | PDF | 1.9 MB |
+| `sloan-my-years-with-general-motors.pdf` | PDF | 1.4 MB |
 | `womack-lean-thinking.pdf` | PDF | 6.5 MB |
 | `wooden-on-leadership.pdf` | PDF | 4.4 MB |
 
@@ -119,7 +138,7 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
 _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 MB._
 
-7 libros · 40.2 MB
+8 libros · 42.1 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -129,6 +148,7 @@ _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 
 | `demarco-millionaire-fastlane.epub` | EPUB | 3.2 MB |
 | `graham-the-intelligent-investor.pdf` | PDF | 5.5 MB |
 | `housel-psicologia-del-dinero.pdf` | PDF | 1.5 MB |
+| `naval-the-almanack.pdf` | PDF | 1.9 MB |
 | `robbins-money-master-the-game.pdf` | PDF | 14.3 MB |
 
 ## 06-productividad-foco
@@ -282,6 +302,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 
 ## Resumen
 
-- **119 libros** en 13 estantes.
-- **584.4 MB** en total (sin el zip de libro+audio de 477 MB).
+- **139 libros** en 13 estantes.
+- **668.2 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.
