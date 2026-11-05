@@ -33,7 +33,7 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-33 libros · 216.6 MB
+35 libros · 220.5 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -82,6 +82,8 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `rackham-spin-selling.pdf` | PDF | 2.0 MB |
 | `reeves-reality-in-advertising.pdf` | PDF | 4.3 MB |
 | `ries-trout-positioning.pdf` | PDF | 3.3 MB |
+| `roberge-the-sales-acceleration-formula.pdf` | PDF | 2.0 MB |
+| `ross-predictable-revenue.epub` | EPUB | 1.9 MB |
 | `schwartz-breakthrough-advertising.pdf` | PDF | 1.2 MB |
 | `suby-sell-like-crazy.pdf` | PDF | 4.3 MB |
 | `sugarman-the-adweek-copywriting-handbook.pdf` | PDF | 2.6 MB |
@@ -91,10 +93,11 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 
 _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
-19 libros · 73.4 MB
+20 libros · 75.3 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `anderson-the-bezos-letters.pdf` | PDF | 1.9 MB |
 | `baker-the-business-of-expertise.epub` | EPUB | 1.4 MB |
 | `blank-the-four-steps-to-the-epiphany.pdf` | PDF | 4.7 MB |
 | `chen-the-cold-start-problem.epub` | EPUB | 2.3 MB |
@@ -120,7 +123,7 @@ _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
 _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
-26 libros · 128.5 MB
+27 libros · 128.8 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -137,6 +140,7 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 | `hbr-on-leadership-2011.pdf` | PDF | 3.8 MB |
 | `horowitz-the-hard-thing-about-hard-things.epub` | EPUB | 320 KB |
 | `lencioni-the-motive-excerpt.pdf` | PDF | 82 KB |
+| `lencioni-the-motive.epub` | EPUB | 357 KB |
 | `maxwell-5-levels-of-leadership.pdf` | PDF | 1.6 MB |
 | `micklewright-out-of-another-crisis-2010.pdf` | PDF | 2.0 MB |
 | `ohno-toyota-production-system.epub` | EPUB | 1.5 MB |
@@ -329,6 +333,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 
 ## Resumen
 
-- **166 libros** en 13 estantes.
-- **867.8 MB** en total (sin el zip de libro+audio de 477 MB).
+- **170 libros** en 13 estantes.
+- **873.9 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.
