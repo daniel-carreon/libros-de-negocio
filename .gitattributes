@@ -1,0 +1,10 @@
+# Los libros son binarios: sin diffs, sin conversión de fin de línea.
+*.pdf  binary
+*.epub binary
+*.mobi binary
+*.webp binary
+
+# Markdown y textos: normalizados a LF.
+*.md    text eol=lf
+*.json  text eol=lf
+*.py    text eol=lf

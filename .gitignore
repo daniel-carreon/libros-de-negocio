@@ -1,1 +1,6 @@
 .DS_Store
+
+# Zips de origen: el de La Vía Rápida pesa 477 MB (libro + audiolibro) y el libro ya está en HTML.
+*.zip
+_duplicados*/
+*.tmp
