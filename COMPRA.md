@@ -11,7 +11,7 @@
 |---|---|---|---|---|---|
 | *One to Many* | Jason Fladlien | El cierre de la masterclass: el webinar que vende. Tu hueco | 🟡 extracto de 28 págs (caps. 4 y 5) | ❌ no hay; Kindle en inglés | YA |
 | *Launch* | Jeff Walker | El canon de los lanzamientos: la Product Launch Formula de 2005, el linaje de lo que más te ha vendido | ❌ | ❔ verificada en portugués, no en español | DESPUÉS |
-| *The E-Myth Revisited* | Michael Gerber | Trabajar **sobre** el negocio y no dentro, con cada proceso escrito: lo que le pediste a Seba, en libro | ❌ | ✅ *El mito del emprendedor* | MES |
+| *The E-Myth Revisited* | Michael Gerber | Trabajar **sobre** el negocio y no dentro, con cada proceso escrito: lo que le pediste a Seba, en libro | ✅ `03-negocio-startups/` | ✅ *El mito del emprendedor* | MES |
 
 ## Expansión
 
@@ -24,7 +24,7 @@
 | *The Ultimate Question 2.0* | Fred Reichheld | El NPS: los referidos medidos | ❌ | ❔ circula como *La pregunta decisiva* | DESPUÉS |
 | *Million Dollar Consulting* | Alan Weiss | La biblia del consultor independiente: entregar por valor, no por horas. Es el vehículo del alumno | ❌ | ❔ inglés | YA |
 | *Value-Based Fees* | Alan Weiss | Cómo cobra un consultor por valor: el precio de tu mensualidad | ❌ | ❔ inglés | YA |
-| *7 Powers* | Hamilton Helmer | Tu pregunta del foso, con método: las siete fuentes de ventaja duradera | ❌ | ❌ no hay; inglés | DESPUÉS |
+| *7 Powers* | Hamilton Helmer | Tu pregunta del foso, con método: las siete fuentes de ventaja duradera | ✅ `09-estrategia-clasicos/` | ❌ no hay; inglés | DESPUÉS |
 
 ## Este mes
 
@@ -32,14 +32,14 @@
 |---|---|---|---|---|---|
 | *DotCom Secrets* | Russell Brunson | La escalera de valor y el embudo como sistema. Ya tienes *Expert Secrets* | ❌ | ✅ *Secretos punto com* | MES |
 | *Traffic Secrets* | Russell Brunson | Cierra la trilogía: Dream 100, tráfico propio contra rentado | ❌ | ❌ no hay; inglés | MES |
-| *Breakthrough Advertising* | Eugene Schwartz | Niveles de conciencia y sofisticación: la teoría del copy | ❌ | Ya en la línea histórica (`HISTORIA.md`) | DESPUÉS |
+| *Breakthrough Advertising* | Eugene Schwartz | Niveles de conciencia y sofisticación: la teoría del copy | ✅ `02-marketing-ofertas/` | Ya en la línea histórica (`HISTORIA.md`) | DESPUÉS |
 | *Traction* (EOS) | Gino Wickman | El sistema operativo del negocio: scorecard, rocas de 90 días, junta semanal. Tu categoría | ❌ | ✅ *Tracción* (BenBella, 2018) | MES |
-| *SPIN Selling* | Neil Rackham | La venta consultiva medida con 35,000 llamadas | ❌ | Ya en la línea histórica (`HISTORIA.md`) | MES |
+| *SPIN Selling* | Neil Rackham | La venta consultiva medida con 35,000 llamadas | ✅ `02-marketing-ofertas/` | Ya en la línea histórica (`HISTORIA.md`) | MES |
 
 ## Después · la historia
 
 La línea completa, con qué agregó cada uno y qué pieza de hoy heredó, está en [`HISTORIA.md`](HISTORIA.md).
-Faltan Carnegie, Drucker, Reeves, Ries y Trout, Porter, y las **copias legales de Hormozi** (Ofertas, Prospectos y Money Models).
+El **5 nov 2026** entraron los 29 del 80/20 que faltaban (Carnegie, Drucker ×2, Reeves, Ries y Trout, Porter, Schwartz, Halbert, Rackham, Abraham, Bettger, Sloan, Ohno, Deming, Gerber, Collins, Christensen, Rumelt, Helmer, Lean Startup, Kroc, Walton, Chernow, Knight, Graham, Buffett, Coase, Schumpeter y Hayek): la columna «Hoy» ya los refleja. Siguen faltando las **copias legales de Hormozi** (Ofertas, Prospectos y Money Models).
 La tabla de procedencia de `CENSO.md` dice cuáles de los que ya tienes no tienen comprobante de compra.
 
 ## Gratis y legal, sin comprar

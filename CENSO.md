@@ -6,6 +6,13 @@
 > Autor: subagente `canon-negocio-online-por-etapa` (Levy). **Levy no compró, no pagó, no descargó nada con derechos y no mandó mensajes.** Todo lo de comprar lo decide y lo hace Daniel.
 > Complementa (no repite) la lista histórica de [`HISTORIA.md`](HISTORIA.md) (Carnegie, Bettger, Drucker, Reeves, Schwartz, Porter, Ries y Trout, Rackham, Tracy). Donde un clásico ya está ahí, aquí solo se apunta.
 
+> **Actualización 5 nov 2026:** los 29 títulos del 80/20 histórico que Daniel pidió en bucle entraron a
+> `biblioteca/` ese día (commit `42ee768`): Drucker ×2, Sloan, Ohno, Deming, Gerber, Collins, Porter,
+> Ries y Trout, Christensen, *Lean Startup*, Rumelt, *7 Powers*, Carnegie, Bettger, Reeves, Schwartz,
+> Halbert, Rackham, Abraham, Kroc, Walton, Chernow, *Shoe Dog*, Graham, Buffett, Coase, Schumpeter y
+> Hayek. **La columna «Lo tiene» de las tablas de abajo es una foto del 4 nov** y no se repintó fila
+> por fila; para saber qué hay hoy, manda `BIBLIOTECA.md`, que se regenera desde los archivos.
+
 ## Cómo leer esto
 
 - **Lo tiene:** ✅ completo · 🟡 parcial (extracto, resumen o copia no oficial) · ❌ falta.
