@@ -7,7 +7,7 @@
 
 _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
-13 libros · 87.7 MB
+16 libros · 90.3 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -18,10 +18,13 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 | `beer-brain-of-the-firm.pdf` | PDF | 12.9 MB |
 | `beer-designing-freedom.pdf` | PDF | 469 KB |
 | `beer-diagnosing-the-system.pdf` | PDF | 17.0 MB |
+| `coase-the-nature-of-the-firm.pdf` | PDF | 476 KB |
 | `davies-the-unaccountability-machine.pdf` | PDF | 356 KB |
+| `hayek-the-use-of-knowledge-in-society.pdf` | PDF | 842 KB |
 | `medina-cybernetic-revolutionaries-EN.pdf` | PDF | 4.7 MB |
 | `medina-revolucionarios-ciberneticos-ES-intro-cap1.pdf` | PDF | 475 KB |
 | `pickering-the-cybernetic-brain.pdf` | PDF | 4.3 MB |
+| `schumpeter-capitalism-socialism-democracy.pdf` | PDF | 1.3 MB |
 | `wiener-cibernetica-y-sociedad-ES.pdf` | PDF | 7.9 MB |
 | `wiener-cybernetics-1948.pdf` | PDF | 8.4 MB |
 | `wiener-human-use-of-human-beings.pdf` | PDF | 2.5 MB |
@@ -30,16 +33,20 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-10 libros · 78.9 MB
+18 libros · 93.2 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `abraham-getting-everything-you-can.pdf` | PDF | 541 KB |
 | `belfort-way-of-the-wolf.pdf` | PDF | 2.2 MB |
+| `bettger-how-i-raised-myself.epub` | EPUB | 2.0 MB |
 | `brunson-secretos-de-experto.pdf` | PDF | 4.6 MB |
+| `carnegie-how-to-win-friends.pdf` | PDF | 588 KB |
 | `cialdini-influencia.pdf` | PDF | 2.8 MB |
 | `cialdini-presuasion.pdf` | PDF | 8.0 MB |
 | `cialdini-yes-50-ways.pdf` | PDF | 10.6 MB |
 | `fladlien-one-to-many.pdf` | PDF | 1.1 MB |
+| `halbert-the-boron-letters.pdf` | PDF | 575 KB |
 | `hormozi-100m-leads.epub` | EPUB | 16.4 MB |
 | `hormozi-100m-leads.pdf` | PDF | 20.0 MB |
 | `hormozi-100m-ofertas-ES.pdf` | PDF | 4.8 MB |
@@ -60,21 +67,28 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `hormozi-markdown/fuentes/$100M Playbook_ Proof Checklist -- Alex Hormozi -- $100M, 2025.md` | MD | 39 KB |
 | `hormozi-markdown/fuentes/$100M Playbook_ Retention -- Alex Hormozi -- $100M, 2025.md` | MD | 49 KB |
 | `ogilvy-confesiones-de-un-publicitario.pdf` | PDF | 6.8 MB |
+| `rackham-spin-selling.pdf` | PDF | 2.0 MB |
+| `reeves-reality-in-advertising.pdf` | PDF | 4.3 MB |
+| `ries-trout-positioning.pdf` | PDF | 3.3 MB |
+| `schwartz-breakthrough-advertising.pdf` | PDF | 1.2 MB |
 
 ## 03-negocio-startups
 
 _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
-7 libros · 35.4 MB
+10 libros · 47.2 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `collins-good-to-great.pdf` | PDF | 8.7 MB |
 | `ferriss-semana-laboral-4-horas.pdf` | PDF | 2.5 MB |
+| `gerber-the-e-myth-revisited.pdf` | PDF | 1.1 MB |
 | `hoffman-blitzscaling.pdf` | PDF | 390 KB |
 | `kaufman-mba-personal-8020.md` | MD | 53 KB |
 | `kaufman-mba-personal.pdf` | PDF | 1.7 MB |
 | `martell-buy-back-your-time.pdf` | PDF | 9.5 MB |
 | `masterson-listos-fuego-apunten.pdf` | PDF | 2.9 MB |
+| `ries-the-lean-startup.pdf` | PDF | 2.0 MB |
 | `thiel-de-cero-a-uno-ES.pdf` | PDF | 2.1 MB |
 | `thiel-zero-to-one-EN.pdf` | PDF | 16.3 MB |
 
@@ -82,19 +96,24 @@ _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
 _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
-10 libros · 25.3 MB
+15 libros · 65.0 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `deming-out-of-the-crisis.pdf` | PDF | 2.0 MB |
+| `drucker-the-effective-executive.pdf` | PDF | 3.8 MB |
+| `drucker-the-practice-of-management.pdf` | PDF | 31.1 MB |
 | `goldratt-la-meta.pdf` | PDF | 1.4 MB |
 | `grove-high-output-management.pdf` | PDF | 2.0 MB |
 | `lencioni-the-motive-excerpt.pdf` | PDF | 82 KB |
 | `maxwell-5-levels-of-leadership.pdf` | PDF | 1.6 MB |
+| `ohno-toyota-production-system.epub` | EPUB | 1.5 MB |
 | `sinek-find-your-why.pdf` | PDF | 3.3 MB |
 | `sinek-leaders-eat-last.pdf` | PDF | 2.6 MB |
 | `sinek-start-with-why-8020.md` | MD | 5 KB |
 | `sinek-start-with-why.pdf` | PDF | 1.4 MB |
 | `sinek-the-infinite-game.pdf` | PDF | 1.9 MB |
+| `sloan-my-years-with-general-motors.pdf` | PDF | 1.4 MB |
 | `womack-lean-thinking.pdf` | PDF | 6.5 MB |
 | `wooden-on-leadership.pdf` | PDF | 4.4 MB |
 
@@ -102,13 +121,15 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
 _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 MB._
 
-5 libros · 33.5 MB
+7 libros · 40.2 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `buffett-the-essays-of-warren-buffett.pdf` | PDF | 1.2 MB |
 | `dalio-nuevo-orden-mundial-ES.pdf` | PDF | 10.7 MB |
 | `dalio-principios-ES.pdf` | PDF | 3.8 MB |
 | `demarco-millionaire-fastlane.epub` | EPUB | 3.2 MB |
+| `graham-the-intelligent-investor.pdf` | PDF | 5.5 MB |
 | `housel-psicologia-del-dinero.pdf` | PDF | 1.5 MB |
 | `robbins-money-master-the-game.pdf` | PDF | 14.3 MB |
 
@@ -159,11 +180,15 @@ _Kahneman, Greene, Holiday, Allen, Pritchett, García Calvo, Zeland, Goggins._
 
 _Sun Tzu, dos ediciones._
 
-2 libros · 2.8 MB
+6 libros · 18.7 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `christensen-the-innovators-dilemma.pdf` | PDF | 1.6 MB |
 | `greene-48-leyes-del-poder.pdf` | PDF | 2.2 MB |
+| `helmer-7-powers.epub` | EPUB | 10.4 MB |
+| `porter-competitive-strategy.pdf` | PDF | 2.1 MB |
+| `rumelt-good-strategy-bad-strategy.pdf` | PDF | 1.8 MB |
 | `suntzu-del-arte-de-la-guerra-v2.pdf` | PDF | 639 KB |
 
 ## 10-ficcion-sistemas
@@ -180,12 +205,16 @@ _Heinlein._
 
 _Elon Musk, en inglés y en español._
 
-2 libros · 49.2 MB
+6 libros · 75.3 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `chernow-titan.pdf` | PDF | 14.1 MB |
 | `elon-musk-biografia-EN.pdf` | PDF | 13.8 MB |
 | `isaacson-elon-musk-ES.epub` | EPUB | 35.3 MB |
+| `knight-shoe-dog.pdf` | PDF | 1.2 MB |
+| `kroc-grinding-it-out.pdf` | PDF | 5.6 MB |
+| `walton-made-in-america.pdf` | PDF | 5.4 MB |
 
 ## 12-epistemologia-frontera
 
@@ -253,6 +282,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 
 ## Resumen
 
-- **90 libros** en 13 estantes.
-- **467.2 MB** en total (sin el zip de libro+audio de 477 MB).
+- **119 libros** en 13 estantes.
+- **584.4 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.
