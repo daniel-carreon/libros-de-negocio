@@ -156,7 +156,7 @@ _Womack, Wooden, Maxwell, Lencioni (extracto), Grove, Sinek x4._
 
 _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 MB._
 
-9 libros · 45.4 MB
+10 libros · 67.3 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -166,6 +166,7 @@ _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 
 | `demarco-millionaire-fastlane.epub` | EPUB | 3.2 MB |
 | `graham-the-intelligent-investor.pdf` | PDF | 5.5 MB |
 | `hill-think-and-grow-rich-2010-edicion.pdf` | PDF | 3.3 MB |
+| `hill-think-and-grow-rich-fawcett.pdf` | PDF | 21.9 MB |
 | `housel-psicologia-del-dinero.pdf` | PDF | 1.5 MB |
 | `naval-the-almanack.pdf` | PDF | 1.9 MB |
 | `robbins-money-master-the-game.pdf` | PDF | 14.3 MB |
@@ -277,7 +278,7 @@ _Deutsch, Kurzweil._
 
 _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage, Barnum, Conwell, Le Bon, Veblen, Pacioli, Sheldon, Scott, Taylor, Esenwein y Carnagey, A. Carnegie, Ford x2, Lippmann, Hopkins x2, Lefèvre, Bernays x2. Legal de publicar._
 
-23 libros · 101.9 MB
+22 libros · 80.0 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -301,7 +302,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 | `ford-today-and-tomorrow-1926.txt` | TXT | 510 KB |
 | `franklin-autobiography-1791.epub` | EPUB | 4.7 MB |
 | `franklin-autobiography-1791.txt` | TXT | 456 KB |
-| `hill-think-and-grow-rich-1937.pdf` | PDF | 21.9 MB |
 | `hopkins-my-life-in-advertising-1927.pdf` | PDF | 3.2 MB |
 | `hopkins-my-life-in-advertising-1927.txt` | TXT | 295 KB |
 | `hopkins-scientific-advertising-1923.pdf` | PDF | 620 KB |
