@@ -67,3 +67,12 @@ Los enlaces de Amazon son búsquedas en amazon.com.mx (no fichas fijas) para no 
 - **NCR Primer de Patterson (1887):** no está digitalizado en las tres fuentes legales; queda solo por referencias. Si un día se quiere el texto, Dayton History (archivo NCR) es el lugar a preguntar.
 - **Sheldon 1904:** el PDF descargado (Google Books) es el tomo de suplementos de la edición 1906 y trae suplementos marcados «1904»; lo que no está digitalizado aquí son las 20 lecciones del curso.
 - **Scott 1908:** el PDF de Google no trae capa de texto; las páginas citadas salen del `.txt` OCR (página del PDF = impresa + 19, cotejado en las imágenes).
+
+## Correcciones del 5 nov 2026 (verificador del video «Cómo se vende»)
+
+El verificador de hechos del video contrastó esta línea del tiempo con sus fuentes y corrigió tres cosas. El detalle,
+con fuente por afirmación, vive en `~/Developer/labs/god-animation/practicas/2026-11-05-como-se-vende/investigacion/HECHOS.md`.
+- **AIDA «de 1898»** es leyenda: no hay fuente primaria de E. St. Elmo Lewis con esa fecha (HECHOS T1-G30).
+- **El *Primer* de NCR (junio de 1887)** nace de la charla de venta de Joseph H. Crane, el mejor vendedor de la casa;
+  Patterson lo imprimió y lo repartió a sus agentes. Lo de Patterson es el sistema, no el guion (HECHOS F3).
+- **La garantía de devolución** ya está en el catálogo n.º 13 de Montgomery Ward, de 1875: antes que Hopkins (HECHOS E13).
