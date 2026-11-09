@@ -2,7 +2,7 @@
 
 La biblioteca de negocio de Arbrain. Dos capas de libros y una de decisiones:
 
-- **`biblioteca/`** — tus 13 estantes, 75 libros, lo que lees y trabajas.
+- **`biblioteca/`** — tus 13 estantes, lo que lees y trabajas (170 obras con ficha al 6 nov; el conteo vivo está en `BIBLIOTECA.md`).
 - **`entregados/`** — los cuatro libros completos que viajan dentro de la app del alumno.
 - **Censo** — qué existe, qué falta, en qué orden se compra y de dónde viene cada teoría.
 
@@ -81,7 +81,7 @@ biblioteca, pero **no viaja**: a GitHub le costaba subirlo y en el teléfono se 
 
 ## Tamaño
 
-~430 MB: 422 MB de biblioteca (75 libros) y 7 MB de entregados. El zip de *La Vía Rápida* con su
+~430 MB: 422 MB de biblioteca (conteo del 4 nov) y 7 MB de entregados. El zip de *La Vía Rápida* con su
 audiolibro (477 MB) queda fuera por `.gitignore`; el libro ya está en HTML. Todo archivo pesa
 menos de 100 MB, así que no hace falta LFS. Si la biblioteca crece arriba de ~1 GB, se evalúa.
 
