@@ -33,7 +33,7 @@ _El corpus completo: Beer, Wiener, Ashby, Medina, Davies, Pickering._
 
 _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, Belfort, Ogilvy, Fladlien (extracto)._
 
-35 libros · 220.5 MB
+40 libros · 285.9 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -49,8 +49,10 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `cialdini-influencia.pdf` | PDF | 2.8 MB |
 | `cialdini-presuasion.pdf` | PDF | 8.0 MB |
 | `cialdini-yes-50-ways.pdf` | PDF | 10.6 MB |
+| `dib-the-1-page-marketing-plan.pdf` | PDF | 2.5 MB |
 | `dunford-obviously-awesome.epub` | EPUB | 1.2 MB |
 | `fladlien-one-to-many.epub` | EPUB | 8.6 MB |
+| `garyvee-day-trading-attention.epub` | EPUB | 54.3 MB |
 | `halbert-the-boron-letters.pdf` | PDF | 575 KB |
 | `holmes-the-ultimate-sales-machine.pdf` | PDF | 10.8 MB |
 | `hormozi-100m-leads.epub` | EPUB | 16.4 MB |
@@ -78,7 +80,9 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `kennedy-no-bs-direct-marketing.pdf` | PDF | 10.5 MB |
 | `kennedy-the-ultimate-sales-letter.pdf` | PDF | 6.8 MB |
 | `marshall-8020-sales-and-marketing.pdf` | PDF | 3.8 MB |
+| `miller-building-a-storybrand.pdf` | PDF | 5.1 MB |
 | `ogilvy-confesiones-de-un-publicitario.pdf` | PDF | 6.8 MB |
+| `priestley-key-person-of-influence.epub` | EPUB | 923 KB |
 | `rackham-spin-selling.pdf` | PDF | 2.0 MB |
 | `reeves-reality-in-advertising.pdf` | PDF | 4.3 MB |
 | `ries-trout-positioning.pdf` | PDF | 3.3 MB |
@@ -87,13 +91,14 @@ _Hormozi (incluye la colección Markdown con 12 playbooks), Brunson, Cialdini, B
 | `schwartz-breakthrough-advertising.pdf` | PDF | 1.2 MB |
 | `suby-sell-like-crazy.pdf` | PDF | 4.3 MB |
 | `sugarman-the-adweek-copywriting-handbook.pdf` | PDF | 2.6 MB |
+| `vaynerchuk-jab-jab-jab-right-hook.pdf` | PDF | 2.6 MB |
 | `walker-launch.pdf` | PDF | 4.9 MB |
 
 ## 03-negocio-startups
 
 _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 
-20 libros · 75.3 MB
+21 libros · 85.5 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
@@ -108,6 +113,7 @@ _Thiel, Hoffman, Kaufman, Masterson, Martell, Ferriss._
 | `fitzpatrick-the-mom-test.epub` | EPUB | 106 KB |
 | `gerber-the-e-myth-revisited.pdf` | PDF | 1.1 MB |
 | `hoffman-blitzscaling.pdf` | PDF | 390 KB |
+| `kagan-million-dollar-weekend.pdf` | PDF | 10.2 MB |
 | `kaufman-mba-personal-8020.md` | MD | 53 KB |
 | `kaufman-mba-personal.pdf` | PDF | 1.7 MB |
 | `martell-buy-back-your-time.pdf` | PDF | 9.5 MB |
@@ -179,10 +185,11 @@ _DeMarco, Housel, Dalio, Robbins. El zip de libro+audio queda fuera de git: 477 
 
 _Newport (Deep Work, Slow Productivity)._
 
-3 libros · 5.8 MB
+4 libros · 18.1 MB
 
 | Archivo | Formato | Peso |
 |---|---|---|
+| `clear-atomic-habits.pdf` | PDF | 12.3 MB |
 | `newport-deep-work.mobi` | MOBI | 1.1 MB |
 | `newport-deep-work.pdf` | PDF | 1.7 MB |
 | `newport-slow-productivity.pdf` | PDF | 3.0 MB |
@@ -333,6 +340,6 @@ _Dominio público en EE. UU. (1532 a 1928): Maquiavelo, Smith, Franklin, Babbage
 
 ## Resumen
 
-- **170 libros** en 13 estantes.
-- **873.9 MB** en total (sin el zip de libro+audio de 477 MB).
+- **177 libros** en 13 estantes.
+- **961.8 MB** en total (sin el zip de libro+audio de 477 MB).
 - Los archivos que Arbrain entrega en la app son otros: `entregados/`.

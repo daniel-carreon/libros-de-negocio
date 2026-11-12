@@ -7,14 +7,17 @@
 
 ## Siglo XXI · lo que falta (12 nov 2026)
 
-> Daniel (12 nov 09:33): «ok como tal cuáles son los libros que me faltan? quiero comprarlos de una vez si es necesario… investiguemos». Revisado contra `BIBLIOTECA.md`: del canon del XXI ya tiene casi todo (Brunson, Hormozi con sus playbooks, Walker, Fladlien, Holmes, Voss, Baker, Enns, Weiss, Martell y Naval). Faltan cuatro huecos.
+> Daniel (12 nov 09:33): «ok como tal cuáles son los libros que me faltan? quiero comprarlos de una vez si es necesario… investiguemos». Revisado contra `BIBLIOTECA.md`: del canon del XXI ya tiene casi todo (Brunson, Hormozi con sus playbooks, Walker, Fladlien, Holmes, Voss, Baker, Enns, Weiss, Martell y Naval). Eran cuatro huecos; **el mismo 12 nov por la tarde entraron los siete pedidos** (los cuatro de aquí más StoryBrand, Million Dollar Weekend y *Jab, Jab, Jab, Right Hook*), cazados y en su estante. Queda solo la compra legal, que decide Daniel.
 
 | Libro | Autor | Por qué | Hoy | Edición en español | Buscar |
 |---|---|---|---|---|---|
-| *Day Trading Attention* (2024) | Gary Vaynerchuk | La atención y el contenido en redes: el canal de la tercera ola. Su biblioteca casi no tiene de contenido | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Day+Trading+Attention+Vaynerchuk) |
-| *Key Person of Influence* | Daniel Priestley | La identidad del experto en su industria: «la gente ni siquiera piensa que puede ser consultor» | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Key+Person+of+Influence+Priestley) |
-| *Atomic Habits* (2018) | James Clear | Hábitos de identidad: cada acción es un voto por quien quieres ser (Tracy con la evidencia de Bandura) | ❌ | ✅ *Hábitos atómicos* | [amazon.com.mx](https://www.amazon.com.mx/s?k=Hábitos+atómicos+James+Clear) |
-| *The 1-Page Marketing Plan* | Allan Dib | El one-sheeter del marketing para el negocio chico, el cliente de sus consultores | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=The+1-Page+Marketing+Plan+Allan+Dib) |
+| *Day Trading Attention* (2024) | Gary Vaynerchuk | La atención y el contenido en redes: el canal de la tercera ola. Su biblioteca casi no tiene de contenido | ✅ EPUB · `02-marketing-ofertas/` | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Day+Trading+Attention+Vaynerchuk) |
+| *Key Person of Influence* | Daniel Priestley | La identidad del experto en su industria: «la gente ni siquiera piensa que puede ser consultor» | ✅ EPUB · `02-marketing-ofertas/` | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Key+Person+of+Influence+Priestley) |
+| *Atomic Habits* (2018) | James Clear | Hábitos de identidad: cada acción es un voto por quien quieres ser (Tracy con la evidencia de Bandura) | ✅ PDF · `06-productividad-foco/` | ✅ *Hábitos atómicos* | [amazon.com.mx](https://www.amazon.com.mx/s?k=Hábitos+atómicos+James+Clear) |
+| *The 1-Page Marketing Plan* | Allan Dib | El one-sheeter del marketing para el negocio chico, el cliente de sus consultores | ✅ PDF · `02-marketing-ofertas/` | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=The+1-Page+Marketing+Plan+Allan+Dib) |
+| *Building a StoryBrand* (2017) | Donald Miller | El cliente como héroe y tú como guía: el marco para el copy de los fundadores | ✅ PDF · `02-marketing-ofertas/` | ✅ *Cómo construir una StoryBrand* | [amazon.com.mx](https://www.amazon.com.mx/s?k=como+construir+una+storybrand) |
+| *Million Dollar Weekend* (2024) | Noah Kagan | Arrancar ya, pedir sin miedo al rechazo y validar con dinero | ✅ PDF · `03-negocio-startups/` | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Million+Dollar+Weekend+Noah+Kagan) |
+| *Jab, Jab, Jab, Right Hook* (2013) | Gary Vaynerchuk | La regla de dar antes de pedir, red por red | ✅ PDF · `02-marketing-ofertas/` | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Jab+Jab+Jab+Right+Hook+Vaynerchuk) |
 
 ## Ya
 
