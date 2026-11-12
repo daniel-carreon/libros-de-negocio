@@ -5,6 +5,17 @@
 > **Hoy** = lo que hay en la biblioteca (`~/Developer/artificial-brain/casa/personal/libros/`), no lo que se ha comprado.
 > Las compras las decide y las hace Daniel. Enlaces de búsqueda en `amazon.com.mx`, no fichas fijas.
 
+## Siglo XXI · lo que falta (12 nov 2026)
+
+> Daniel (12 nov 09:33): «ok como tal cuáles son los libros que me faltan? quiero comprarlos de una vez si es necesario… investiguemos». Revisado contra `BIBLIOTECA.md`: del canon del XXI ya tiene casi todo (Brunson, Hormozi con sus playbooks, Walker, Fladlien, Holmes, Voss, Baker, Enns, Weiss, Martell y Naval). Faltan cuatro huecos.
+
+| Libro | Autor | Por qué | Hoy | Edición en español | Buscar |
+|---|---|---|---|---|---|
+| *Day Trading Attention* (2024) | Gary Vaynerchuk | La atención y el contenido en redes: el canal de la tercera ola. Su biblioteca casi no tiene de contenido | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Day+Trading+Attention+Vaynerchuk) |
+| *Key Person of Influence* | Daniel Priestley | La identidad del experto en su industria: «la gente ni siquiera piensa que puede ser consultor» | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=Key+Person+of+Influence+Priestley) |
+| *Atomic Habits* (2018) | James Clear | Hábitos de identidad: cada acción es un voto por quien quieres ser (Tracy con la evidencia de Bandura) | ❌ | ✅ *Hábitos atómicos* | [amazon.com.mx](https://www.amazon.com.mx/s?k=Hábitos+atómicos+James+Clear) |
+| *The 1-Page Marketing Plan* | Allan Dib | El one-sheeter del marketing para el negocio chico, el cliente de sus consultores | ❌ | ❔ | [amazon.com.mx](https://www.amazon.com.mx/s?k=The+1-Page+Marketing+Plan+Allan+Dib) |
+
 ## Ya
 
 | Libro | Autor | Por qué ahora | Hoy | Edición en español | Censo |
